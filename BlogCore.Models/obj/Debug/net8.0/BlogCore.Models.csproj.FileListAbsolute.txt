@@ -1,0 +1,11 @@
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
