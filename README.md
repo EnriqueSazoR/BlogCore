@@ -1,5 +1,5 @@
 # CRUD Categorías
-![4](https://github.com/user-attachments/assets/508eb521-30e2-4727-9617-7935fbddcafb)
-![3](https://github.com/user-attachments/assets/d43c0ac3-963e-408a-8603-c49d2c574a23)
-![2](https://github.com/user-attachments/assets/3463906f-83c3-4fff-abe7-98964cc31461)
-![1](https://github.com/user-attachments/assets/48b018cf-6900-4700-ae35-d881dc3bd304)
+![1](https://github.com/user-attachments/assets/43c652dd-4039-4dba-8235-e3b5217ac227)
+![2](https://github.com/user-attachments/assets/c0a5d3b1-8b1e-404c-9843-01fb2d13738b)
+![3](https://github.com/user-attachments/assets/1da263b3-9533-4409-bd6c-e7b0fb0e3a39)
+![4](https://github.com/user-attachments/assets/791ed6c4-5f51-4bae-a375-050ed986e7b7)
