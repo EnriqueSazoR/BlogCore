@@ -277,3 +277,5 @@ C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore\bin\Debug\net8.0\
 C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Models.pdb
 C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore\bin\Debug\net8.0\BlogCore.Utilidades.pdb
 C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore\obj\Debug\net8.0\BlogCore.sourcelink.json
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

@@ -9,3 +9,4 @@ C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Utilidades\obj\De
 C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\refint\BlogCore.Utilidades.dll
 C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.pdb
 C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\ref\BlogCore.Utilidades.dll
+C:\Users\Luis Sazo\Desktop\DesarrolloWeb\MVC\BlogCore\BlogCore.Utilidades\obj\Debug\net8.0\BlogCore.Utilidades.sourcelink.json

@@ -17,9 +17,11 @@ namespace BlogCore.AccesoDatos.Data.Repository
             _db = db;
             // Se llaman a todos los repositorios para que queden encapsulados
             Categoria = new CategoriaRepository(_db);
+            Articulo = new ArticuloRepository(_db);
         }
 
         public ICategoriaRepository Categoria { get; private set; }
+        public IArticuloRepository Articulo { get; private set; }
 
         public void Dispose()
         {

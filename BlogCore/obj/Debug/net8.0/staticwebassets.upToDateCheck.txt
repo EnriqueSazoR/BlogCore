@@ -1,5 +1,8 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagenes\articulos\04ff754a-e466-42f8-8930-69af26e2d647.png
+wwwroot\imagenes\articulos\a2753b4f-a201-4cca-ad50-62315faa449c.png
+wwwroot\js\articulo.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
