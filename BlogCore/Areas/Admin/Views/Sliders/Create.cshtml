@@ -1,0 +1,64 @@
+﻿@model BlogCore.Models.Slider
+
+@{
+    ViewData["Title"] = "Crear Slider";
+}
+<br />
+<br />
+
+<h3 class="text-center">Crear nuevo slider</h3>
+<form method="POST" asp-action="Create" enctype="multipart/form-data">
+    <div class="row px-2 offset-1 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Nombre"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Nombre" class="form-control" placeholder="Ingresa el nombre del slider" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Estado"></label>
+                </div>
+                <div class="col-8">
+                    <input type="checkbox" asp-for="Estado"/>
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="UrlImagen"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+                    <span asp-validation-for="UrlImagen" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="form-group-row">
+                <div class="col-8">
+                    <partial name="_VistaCrearVolver" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

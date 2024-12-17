@@ -1,0 +1,76 @@
+﻿@model BlogCore.Models.Slider
+
+@{
+    ViewData["Title"] = "Editar Slider";
+}
+<br />
+<br />
+
+<h3 class="text-center">Editar Slider</h3>
+<form method="POST" asp-action="Edit" enctype="multipart/form-data">
+    <!---Enviar Id Oculto--->
+    <input type="hidden" asp-for="Id"/>
+
+    <div class="row px-2 offset-1 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="col-8 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Nombre"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Nombre" class="form-control" placeholder="Ingresa el nombre del slider" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Estado"></label>
+                </div>
+                <div class="col-8">
+                    <input type="checkbox" asp-for="Estado" />
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="UrlImagen"></label>
+                </div>
+                <div class="col-8">
+                    <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+                    <span asp-validation-for="UrlImagen" class="text-danger"></span>
+                </div>
+            </div>
+
+            <br />
+
+            <div class="row">
+                <div class="col">
+                    <button type="submit" class="btn btn-primary form-control">Editar Slider</button>
+                </div>
+                &nbsp;
+                <div class="col">
+                    <a asp-action="Index" class="btn btn-success form-control">Volver atrás</a>
+                </div>
+            </div>
+
+            <div class="col-4 pt-3">
+                <img src="@Model.UrlImagen" width="300" style="border-radius:5px; border:1px solid #bbb9b9" />
+            </div>
+
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

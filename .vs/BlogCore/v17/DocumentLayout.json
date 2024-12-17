@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\sliders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\admin\\views\\sliders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\sliders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\wwwroot\\js\\slider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\slider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\sliders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:59:05.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:51:33.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Sliders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T03:41:03.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "slider.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\slider.js",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+              "RelativeToolTip": "BlogCore\\wwwroot\\js\\slider.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T03:29:27.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwIkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:25:59.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

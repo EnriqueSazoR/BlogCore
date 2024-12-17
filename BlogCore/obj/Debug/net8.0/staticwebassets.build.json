@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5selyKykQXPuPixzKCjHbwRZC2qBKhrTVtPSJyF4xMk=",
+  "Hash": "/diX8M8UMl7wtAOL9/oAZLo4BVVGwsicqREhUjH8oZE=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1361,12 +1361,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\04ff754a-e466-42f8-8930-69af26e2d647.png",
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\6aeadf67-8571-4545-bc97-a7a988a429c5.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/articulos/04ff754a-e466-42f8-8930-69af26e2d647#[.{fingerprint}]?.png",
+      "RelativePath": "imagenes/articulos/6aeadf67-8571-4545-bc97-a7a988a429c5#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1375,11 +1375,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "z8zn8awxvx",
-      "Integrity": "M8IjVkNjK4EnzFUH154K+69fevctPOisi1tUr9fyAuQ=",
+      "Fingerprint": "sfv0so3sw1",
+      "Integrity": "2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\04ff754a-e466-42f8-8930-69af26e2d647.png"
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\6aeadf67-8571-4545-bc97-a7a988a429c5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\905025c6-1237-4285-99ea-189587fed636.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/905025c6-1237-4285-99ea-189587fed636#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2zcmfkqzf",
+      "Integrity": "j26LMyMDyrQYN16FH+PQGJBb7Y7sEkTAP+bmDk7oe9I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\905025c6-1237-4285-99ea-189587fed636.jpg"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\a2753b4f-a201-4cca-ad50-62315faa449c.png",
@@ -1401,6 +1422,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\a2753b4f-a201-4cca-ad50-62315faa449c.png"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vaqf933eqf",
+      "Integrity": "53eMa6m+yJpu6M/WwDwY3x8KLTrivMhPLkkSwuqVNPY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/sliders/ffaad286-e28d-410a-8cd1-9c7f07ccfbb3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sfv0so3sw1",
+      "Integrity": "2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
@@ -1464,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/slider#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "df8epljuv3",
+      "Integrity": "Kf8eR5Z6XGI/8W0jWo5GVgVnTVVIZ5T0QPGW9xo7THc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\slider.js"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -5234,8 +5318,8 @@
       ]
     },
     {
-      "Route": "imagenes/articulos/04ff754a-e466-42f8-8930-69af26e2d647.png",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\04ff754a-e466-42f8-8930-69af26e2d647.png",
+      "Route": "imagenes/articulos/6aeadf67-8571-4545-bc97-a7a988a429c5.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\6aeadf67-8571-4545-bc97-a7a988a429c5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5244,19 +5328,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "146940"
+          "Value": "148228"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"M8IjVkNjK4EnzFUH154K+69fevctPOisi1tUr9fyAuQ=\""
+          "Value": "\"2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 03:48:42 GMT"
+          "Value": "Thu, 12 Dec 2024 04:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5266,13 +5350,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M8IjVkNjK4EnzFUH154K+69fevctPOisi1tUr9fyAuQ="
+          "Value": "sha256-2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs="
         }
       ]
     },
     {
-      "Route": "imagenes/articulos/04ff754a-e466-42f8-8930-69af26e2d647.z8zn8awxvx.png",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\04ff754a-e466-42f8-8930-69af26e2d647.png",
+      "Route": "imagenes/articulos/6aeadf67-8571-4545-bc97-a7a988a429c5.sfv0so3sw1.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\6aeadf67-8571-4545-bc97-a7a988a429c5.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5281,19 +5365,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "146940"
+          "Value": "148228"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"M8IjVkNjK4EnzFUH154K+69fevctPOisi1tUr9fyAuQ=\""
+          "Value": "\"2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 03:48:42 GMT"
+          "Value": "Thu, 12 Dec 2024 04:08:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5303,15 +5387,97 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "z8zn8awxvx"
+          "Value": "sfv0so3sw1"
         },
         {
           "Name": "label",
-          "Value": "imagenes/articulos/04ff754a-e466-42f8-8930-69af26e2d647.png"
+          "Value": "imagenes/articulos/6aeadf67-8571-4545-bc97-a7a988a429c5.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M8IjVkNjK4EnzFUH154K+69fevctPOisi1tUr9fyAuQ="
+          "Value": "sha256-2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/articulos/905025c6-1237-4285-99ea-189587fed636.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\905025c6-1237-4285-99ea-189587fed636.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j26LMyMDyrQYN16FH+PQGJBb7Y7sEkTAP+bmDk7oe9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 04:09:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j26LMyMDyrQYN16FH+PQGJBb7Y7sEkTAP+bmDk7oe9I="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/articulos/905025c6-1237-4285-99ea-189587fed636.n2zcmfkqzf.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\905025c6-1237-4285-99ea-189587fed636.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37941"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j26LMyMDyrQYN16FH+PQGJBb7Y7sEkTAP+bmDk7oe9I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 04:09:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2zcmfkqzf"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/articulos/905025c6-1237-4285-99ea-189587fed636.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j26LMyMDyrQYN16FH+PQGJBb7Y7sEkTAP+bmDk7oe9I="
         }
       ]
     },
@@ -5394,6 +5560,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-Cy2kP14YRtVm7KvseZymADnqxG5VYWJEgtNGz4u65VY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"53eMa6m+yJpu6M/WwDwY3x8KLTrivMhPLkkSwuqVNPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 03:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-53eMa6m+yJpu6M/WwDwY3x8KLTrivMhPLkkSwuqVNPY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.vaqf933eqf.png",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "170957"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"53eMa6m+yJpu6M/WwDwY3x8KLTrivMhPLkkSwuqVNPY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 03:55:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vaqf933eqf"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-53eMa6m+yJpu6M/WwDwY3x8KLTrivMhPLkkSwuqVNPY="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 04:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/sliders/ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.sfv0so3sw1.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 04:19:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfv0so3sw1"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/sliders/ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2DTS7qSsOmmcyEeMpc64sWsjlQKVyOHM5QAhqfCgxBs="
         }
       ]
     },
@@ -5640,6 +5970,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        }
+      ]
+    },
+    {
+      "Route": "js/slider.df8epljuv3.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kf8eR5Z6XGI/8W0jWo5GVgVnTVVIZ5T0QPGW9xo7THc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 04:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "df8epljuv3"
+        },
+        {
+          "Name": "label",
+          "Value": "js/slider.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kf8eR5Z6XGI/8W0jWo5GVgVnTVVIZ5T0QPGW9xo7THc="
+        }
+      ]
+    },
+    {
+      "Route": "js/slider.js",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\slider.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kf8eR5Z6XGI/8W0jWo5GVgVnTVVIZ5T0QPGW9xo7THc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Dec 2024 04:17:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kf8eR5Z6XGI/8W0jWo5GVgVnTVVIZ5T0QPGW9xo7THc="
         }
       ]
     },
