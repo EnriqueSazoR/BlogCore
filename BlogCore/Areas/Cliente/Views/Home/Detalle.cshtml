@@ -1,0 +1,40 @@
+﻿@model BlogCore.Models.Articulo
+
+@{
+    ViewData["Title"] = "Detalle Artículo";
+
+    // Convertir cadena a un objeto DateTime
+    DateTime fechaCreacion = DateTime.Parse(Model.FechaCreacion);
+
+    // Formatear fecha como una cadena usando ToString con el formato Deseado
+    string fechaFormateada = fechaCreacion.ToString("dd/MM/yyyy");
+}
+
+<div class="container">
+    <div class="card">
+        <div class="card-header bg-light text-light">
+            <div class="col-12">
+                <h1 class="text-primary text-center">@Model.Nombre</h1>
+            </div>
+
+            <div class="col-12">
+                <p class="text-muted">Fecha: @fechaFormateada</p>
+            </div>
+        </div>
+
+        <div class="card-body">
+            <div class="col-12">
+                <img src="@Model.UrlImagen" class="img-thumbnail mx-auto d-block"/>
+                <p class="text-secondary">@Html.Raw(Model.Descripcion)</p>
+            </div>
+        </div>
+
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-12 col-md-6 pb-1">
+                    <a asp-action="Index" class="btn btn-success btn-sm">Volver Atrás</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

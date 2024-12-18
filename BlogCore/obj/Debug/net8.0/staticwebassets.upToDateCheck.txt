@@ -3,8 +3,9 @@ wwwroot\favicon.ico
 wwwroot\imagenes\articulos\6aeadf67-8571-4545-bc97-a7a988a429c5.jpg
 wwwroot\imagenes\articulos\905025c6-1237-4285-99ea-189587fed636.jpg
 wwwroot\imagenes\articulos\a2753b4f-a201-4cca-ad50-62315faa449c.png
-wwwroot\imagenes\sliders\d7886a1f-daef-4a7c-afac-ed5f9fe0ccd0.png
-wwwroot\imagenes\sliders\ffaad286-e28d-410a-8cd1-9c7f07ccfbb3.jpg
+wwwroot\imagenes\sliders\5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg
+wwwroot\imagenes\sliders\b9db2916-2905-4571-a0ea-607663c85b87.jpg
+wwwroot\imagenes\sliders\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg
 wwwroot\js\articulo.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js
