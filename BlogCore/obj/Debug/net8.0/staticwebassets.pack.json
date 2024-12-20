@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\imagenes\\articulos\\a2753b4f-a201-4cca-ad50-62315faa449c.png"
     },
     {
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\de12ea36-c893-4855-a302-1c125eb91101.png",
+      "PackagePath": "staticwebassets\\imagenes\\articulos\\de12ea36-c893-4855-a302-1c125eb91101.png"
+    },
+    {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg",
       "PackagePath": "staticwebassets\\imagenes\\sliders\\5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg"
     },
@@ -33,8 +37,8 @@
       "PackagePath": "staticwebassets\\imagenes\\sliders\\b9db2916-2905-4571-a0ea-607663c85b87.jpg"
     },
     {
-      "Id": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg",
-      "PackagePath": "staticwebassets\\imagenes\\sliders\\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg"
+      "Id": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sliders\\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg"
     },
     {
       "Id": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",

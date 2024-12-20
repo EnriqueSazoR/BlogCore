@@ -3,9 +3,10 @@ wwwroot\favicon.ico
 wwwroot\imagenes\articulos\6aeadf67-8571-4545-bc97-a7a988a429c5.jpg
 wwwroot\imagenes\articulos\905025c6-1237-4285-99ea-189587fed636.jpg
 wwwroot\imagenes\articulos\a2753b4f-a201-4cca-ad50-62315faa449c.png
+wwwroot\imagenes\articulos\de12ea36-c893-4855-a302-1c125eb91101.png
 wwwroot\imagenes\sliders\5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg
 wwwroot\imagenes\sliders\b9db2916-2905-4571-a0ea-607663c85b87.jpg
-wwwroot\imagenes\sliders\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg
+wwwroot\imagenes\sliders\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg
 wwwroot\js\articulo.js
 wwwroot\js\categoria.js
 wwwroot\js\site.js

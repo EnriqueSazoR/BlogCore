@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xrSQoELP6YXsHCUMDmO5A4+qUjRxWJhuGsba+Z8mJcg=",
+  "Hash": "wrDfa2siduXrqvfZLdm7FxarCaLdlVyovfUpyLGmQfQ=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1424,6 +1424,27 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\a2753b4f-a201-4cca-ad50-62315faa449c.png"
     },
     {
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\de12ea36-c893-4855-a302-1c125eb91101.png",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "imagenes/articulos/de12ea36-c893-4855-a302-1c125eb91101#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ah2x4ye3wa",
+      "Integrity": "MonyDglnJNDO3DPRwq3irl9JDvYbLDX3NCFcQXL/RJk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\articulos\\de12ea36-c893-4855-a302-1c125eb91101.png"
+    },
+    {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
@@ -1466,12 +1487,12 @@
       "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\b9db2916-2905-4571-a0ea-607663c85b87.jpg"
     },
     {
-      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg",
+      "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg",
       "SourceId": "BlogCore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\",
       "BasePath": "_content/BlogCore",
-      "RelativePath": "imagenes/sliders/c9dc154c-0c1c-4f4d-a757-984ced199b2b#[.{fingerprint}]?.jpg",
+      "RelativePath": "imagenes/sliders/f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1484,7 +1505,7 @@
       "Integrity": "EFAp4cFhfU4zopwqnsiU+6xxA+UITYiKlUaj57g+vJQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\sliders\\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg"
     },
     {
       "Identity": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\js\\articulo.js",
@@ -2813,7 +2834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 03:59:11 GMT"
+          "Value": "Fri, 20 Dec 2024 01:52:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2850,7 +2871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 03:59:11 GMT"
+          "Value": "Fri, 20 Dec 2024 01:52:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2895,7 +2916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 03:59:11 GMT"
+          "Value": "Fri, 20 Dec 2024 01:52:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2940,7 +2961,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 03:59:11 GMT"
+          "Value": "Fri, 20 Dec 2024 01:52:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5585,6 +5606,88 @@
       ]
     },
     {
+      "Route": "imagenes/articulos/de12ea36-c893-4855-a302-1c125eb91101.ah2x4ye3wa.png",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\de12ea36-c893-4855-a302-1c125eb91101.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MonyDglnJNDO3DPRwq3irl9JDvYbLDX3NCFcQXL/RJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 02:55:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ah2x4ye3wa"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/articulos/de12ea36-c893-4855-a302-1c125eb91101.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MonyDglnJNDO3DPRwq3irl9JDvYbLDX3NCFcQXL/RJk="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/articulos/de12ea36-c893-4855-a302-1c125eb91101.png",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\articulos\\de12ea36-c893-4855-a302-1c125eb91101.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16155"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MonyDglnJNDO3DPRwq3irl9JDvYbLDX3NCFcQXL/RJk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 02:55:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MonyDglnJNDO3DPRwq3irl9JDvYbLDX3NCFcQXL/RJk="
+        }
+      ]
+    },
+    {
       "Route": "imagenes/sliders/5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg",
       "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\5e3997c2-c7b2-4361-8c6c-4372e8b40047.jpg",
       "Selectors": [],
@@ -5749,8 +5852,8 @@
       ]
     },
     {
-      "Route": "imagenes/sliders/c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg",
+      "Route": "imagenes/sliders/f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5771,7 +5874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 01:02:29 GMT"
+          "Value": "Wed, 18 Dec 2024 02:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5786,8 +5889,8 @@
       ]
     },
     {
-      "Route": "imagenes/sliders/c9dc154c-0c1c-4f4d-a757-984ced199b2b.oqtq7o7oks.jpg",
-      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg",
+      "Route": "imagenes/sliders/f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.oqtq7o7oks.jpg",
+      "AssetFile": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\wwwroot\\imagenes\\sliders\\f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5808,7 +5911,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 01:02:29 GMT"
+          "Value": "Wed, 18 Dec 2024 02:57:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5822,7 +5925,7 @@
         },
         {
           "Name": "label",
-          "Value": "imagenes/sliders/c9dc154c-0c1c-4f4d-a757-984ced199b2b.jpg"
+          "Value": "imagenes/sliders/f3abaaeb-d5dc-46ee-a7f9-74fc33eb70a8.jpg"
         },
         {
           "Name": "integrity",

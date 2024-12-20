@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\cliente\\views\\home\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\home\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\views\\shared\\_slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_slider.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E1F6AD4-85AA-477D-A896-9C1D7F3DE4E7}|BlogCore.Utilidades\\BlogCore.Utilidades.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore.utilidades\\cnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E1F6AD4-85AA-477D-A896-9C1D7F3DE4E7}|BlogCore.Utilidades\\BlogCore.Utilidades.csproj|solutionrelative:blogcore.utilidades\\cnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\Home\\Detalle.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Detalle.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\Home\\Detalle.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T01:12:32.41Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:00:55.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T00:40:10.872Z",
+              "WhenOpened": "2024-12-20T02:46:34.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Slider.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Views\\Shared\\_Slider.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Slider.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Views\\Shared\\_Slider.cshtml",
-              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Slider.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T00:38:24.885Z",
+              "WhenOpened": "2024-12-20T02:34:41.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T00:36:14.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T00:34:59.437Z",
+              "Title": "CNT.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.Utilidades\\CNT.cs",
+              "RelativeDocumentMoniker": "BlogCore.Utilidades\\CNT.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.Utilidades\\CNT.cs",
+              "RelativeToolTip": "BlogCore.Utilidades\\CNT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:33:14.199Z",
               "EditorCaption": ""
             }
           ]
