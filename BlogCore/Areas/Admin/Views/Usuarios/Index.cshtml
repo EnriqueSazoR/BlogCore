@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ModelUser>
+
+    @{
+        ViewData["Title"] = "Lista de Usuarios";
+    }
+
+    <br />
+    <br />
+
+    <div class="border">
+        <div class="row">
+            <div class="col-6">
+                <h2 class="text-center">Lista de Usuarios</h2>
+            </div>
+            <div class="col-6">
+                <a asp-area="Identity" asp-page="/Account/Register" class="btn btn-info">
+                    <i class="fas fa-plus"></i> &nbsp; Registra un nuevo usuario 
+                </a>
+            </div>
+        </div>
+        @if(Model.Count() > 0)
+        {
+             <table class="table table-striped table-bordered" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(m => m.Id)</th>
+                        <th>@Html.DisplayNameFor(m => m.Nombre)</th>
+                        <th>@Html.DisplayNameFor(m => m.Email)</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(m => item.Id)</td>
+                            <td>@Html.DisplayFor(m => item.Nombre)</td>
+                            <td>@Html.DisplayFor(m => item.Email)</td>
+                            <td>
+                                @if(item.LockoutEnd == null || item.LockoutEnd < DateTime.Now)
+                                {
+                                    <a class="btn btn-success text-white" asp-action="Bloquear" style="width:50px" asp-route-id="@item.Id"></a>
+                                    <i class="fas fa-lock-open"></i>
+                                }
+                                else
+                                {
+                                    <a class="btn btn-danger text-white" asp-action="Desbloquear" style="width:50px" asp-route-id="@item.Id"></a>
+                                    <i class="fas fa-lock"></i>
+                                }
+                                
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+

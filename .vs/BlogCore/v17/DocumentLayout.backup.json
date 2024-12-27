@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore.accesodatos\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE05DF34-1766-4487-995C-64D455FBB3AF}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E1F6AD4-85AA-477D-A896-9C1D7F3DE4E7}|BlogCore.Utilidades\\BlogCore.Utilidades.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore.utilidades\\cnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E1F6AD4-85AA-477D-A896-9C1D7F3DE4E7}|BlogCore.Utilidades\\BlogCore.Utilidades.csproj|solutionrelative:blogcore.utilidades\\cnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\luis sazo\\desktop\\desarrolloweb\\mvc\\blogcore\\blogcore.accesodatos\\data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92751BD6-F17A-4641-90A0-94E098160CF2}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\irepository\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Program.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Program.cs",
-              "RelativeToolTip": "BlogCore\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:00:55.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwCkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:46:34.442Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T00:57:14.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAACKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T02:34:41.104Z",
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:54:27.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CNT.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.Utilidades\\CNT.cs",
-              "RelativeDocumentMoniker": "BlogCore.Utilidades\\CNT.cs",
-              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.Utilidades\\CNT.cs",
-              "RelativeToolTip": "BlogCore.Utilidades\\CNT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:33:14.199Z",
+              "WhenOpened": "2024-12-27T00:25:59.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:25:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:14:40.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Luis Sazo\\Desktop\\DesarrolloWeb\\MVC\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:11:36.153Z",
               "EditorCaption": ""
             }
           ]
