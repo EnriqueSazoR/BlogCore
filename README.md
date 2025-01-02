@@ -9,3 +9,12 @@
 ![3](https://github.com/user-attachments/assets/37cde2c0-8288-4db2-bbcc-56fccdbbcee8)
 ![2](https://github.com/user-attachments/assets/e7391634-d2d0-420d-8cf7-74ff301ef422)
 ![4](https://github.com/user-attachments/assets/92f35c63-250d-48c1-a47a-de68b085c748)
+
+# Pagina de inicio
+![1](https://github.com/user-attachments/assets/8a842d81-0564-4bc8-8b1d-b7dd824af7a9)
+
+# Acceso a usuarios
+- Si se ingresa con usuario Administrador, se podrá realizar mantenimientos CRUD (Articulos, Categorias, Usuarios, SliderS)
+![2](https://github.com/user-attachments/assets/06cf3fcb-fb91-4053-806f-25e07142d8a8)
+
+
