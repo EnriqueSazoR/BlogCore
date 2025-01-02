@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using BlogCore.Utilidades
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -21,32 +22,41 @@
 
         @* Bootswatch *@
         <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="#">Navbar</a>
+            <div class="container">
+                <a class="navbar-brand" href="/"><img src="~/imagenes/blogger.png" width="80"/></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarColor01">
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link active" href="#">
+                            <a class="nav-link active" href="/">
                                 Inicio
                                 <span class="visually-hidden">(current)</span>
                             </a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Administrar Contenidos</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Categorias" asp-action="Index">Categorías</a>
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Articulos" asp-action="Index">Artículos</a>
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Sliders" asp-action="Index">Sliders</a>
-                                <a class="dropdown-item" asp-area="Admin" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
-                            </div>
-                        </li>
+                        <!--Autorización-->
+                        @if(User.IsInRole(CNT.Administrador))
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Administrar Contenidos</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Categorias" asp-action="Index">Categorías</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Articulos" asp-action="Index">Artículos</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Sliders" asp-action="Index">Sliders</a>
+                                    <a class="dropdown-item" asp-area="Admin" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
+                                </div>
+                            </li>
+                        }
+                        
                     </ul>
-                    <form class="d-flex">
-                        <input class="form-control me-sm-2" type="search" placeholder="Ingresa Busqueda..">
-                        <button class="btn btn-secondary my-2 my-sm-0" type="submit">Buscar</button>
+                    <form class="busuqeda d-flex ms-3 mr-4" asp-controller="Home" asp-action="ResultadoBusqueda" method="get">
+                        <input class="form-control text-dark" type="text" name="searchString" placeholder="Ingresa Busqueda..">
+                        <div class="input-group-append">
+                            <button class="btn btn-success" type="submit">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </div>
                     </form>
                 </div>
                 <partial name="_LoginPartial" />
@@ -66,9 +76,16 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - BlogCore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    <!--Banner-->
+    <div class="container-fluid banner-container">
+        <div class="container banner-content">
+            <button type="button" class="btn btn-success subscribe-btn">Suscríbete a Nuestro Blog</button>
+        </div>
+    </div>
+
+    <footer class="border-top footer text-muted bg-dark" style="background-color: #1a1a1a !important;">
+        <div class="container py-4">
+            <span class="text-white">&copy; 2024 - BlogCore -</span> <a href="https://github.com/EnriqueSazoR" class="text-white">Desarrollado por Luis Sazo</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

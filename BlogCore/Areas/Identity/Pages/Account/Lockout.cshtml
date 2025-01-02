@@ -1,10 +1,14 @@
 ﻿@page
 @model LockoutModel
 @{
-    ViewData["Title"] = "Locked out";
+    ViewData["Title"] = "Cuenta Bloqueada";
 }
 
 <header>
-    <h1 class="text-danger">@ViewData["Title"]</h1>
-    <p class="text-danger">This account has been locked out, please try again later.</p>
+    <div class="text-center">
+        <img src="~/imagenes/no-autorizado.png" class="img-fluid" width="250"/>
+        <h1 class="text-danger">@ViewData["Title"]</h1>
+        <p class="text-danger">Esta cuenta ha sido bloqueada, intenta más tarde.</p>
+    </div>
+    
 </header>

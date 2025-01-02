@@ -19,7 +19,7 @@
                 <span asp-validation-for="Input.Email" class="text-danger"></span>
             </div>
 
-             <div class="form-floating mb-3">
+            <div class="form-floating mb-3">
                 <input asp-for="Input.Nombre" class="form-control" autocomplete="nombre" aria-required="true" placeholder="Ingresa tu nombre" />
                 <label asp-for="Input.Nombre">Nombre</label>
                 <span asp-validation-for="Input.Nombre" class="text-danger"></span>
@@ -53,15 +53,19 @@
                 <label asp-for="Input.ConfirmPassword">Confirm Password</label>
                 <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
             </div>
-
-            <!--Selector de Roles-->
-            <div class="form-group row">
-                <div col-6><h4>Seleccionar Rol de Usuario</h4></div>
-                <div class="col-5">
-                    <input type="radio" name="radUsuarioRole" value="@CNT.Administrador" /> @CNT.Administrador
-                    <input type="radio" name="radUsuarioRole" value="@CNT.Registrado" /> @CNT.Registrado
+            <!--Autorización-->
+            @if(User.IsInRole(CNT.Administrador))
+            {
+                <!--Selector de Roles-->
+                <div class="form-group row">
+                    <div col-6><h4>Seleccionar Rol de Usuario</h4></div>
+                    <div class="col-5">
+                        <input type="radio" name="radUsuarioRole" value="@CNT.Administrador" /> @CNT.Administrador
+                        <input type="radio" name="radUsuarioRole" value="@CNT.Registrado" /> @CNT.Registrado
+                    </div>
                 </div>
-            </div>
+            }
+            
             <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Registro</button>
         </form>
     </div>

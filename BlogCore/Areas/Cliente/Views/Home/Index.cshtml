@@ -15,12 +15,12 @@
     <div class="row">
         @foreach(var articulo in Model.ListaArticulos.OrderBy(o => o.Id))
         {
-            <div class="col-4">
+            <div class="col-5">
                 <div class="card">
-                    <img src="@articulo.UrlImagen" class="img-thumbnail" width="100"/>
+                    <img src="@articulo.UrlImagen" class="img-thumbnail" width="85%"/>
                     <div class="card-body">
                         <h5 class="text-center">@articulo.Nombre</h5>
-                        <a asp-action="Detalle" class="btn btn-success" style="border-radius;10px" asp-route-id="@articulo.Id">
+                        <a asp-action="Detalle" class="btn btn-success" style="border-radius: 10px" asp-route-id="@articulo.Id">
                             Más Información
                         </a>
                     </div>
@@ -33,3 +33,28 @@ else
 {
     <p>No hay artículos</p>
 }
+
+<br />
+<br /> 
+
+<!--Crear botones de páginación-->
+<div class="text-center">
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li class="page-item @(Model.PageIndex > 1? "" : "disabled")">
+                <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-page="@(Model.PageIndex - 1)">Anterior</a>
+            </li>
+            @for (int i = 1; i <= Model.TotalPage; i++)
+            {
+                <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+                    <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-page="@i">@i</a>
+                </li>
+            }
+            <li class="page-item @(Model.PageIndex < Model.TotalPage ? "" : "disabled")">
+                <a class="page-link" asp-controller="Home" asp-action="Index" asp-route-page="@(Model.PageIndex + 1)">Siguiente</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+
